@@ -15,3 +15,8 @@ startTransition(() => {
     // Low priority code goes here...
 });
 isPending shows whether low priorit task is complete or not
+Official docs - <https://reactjs.org/docs/hooks-reference.html#usetransition>
+
+## Update #04
+useDeferredValue hook - accepts a value and returns a new copy of the value that will defer to more urgent updates
+Official docs - <https://reactjs.org/docs/hooks-reference.html#usedeferredvalue>
